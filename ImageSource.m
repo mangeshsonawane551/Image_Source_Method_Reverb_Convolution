@@ -1,5 +1,6 @@
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~%
-% Program Details: An implementation of Image source method for generation
+%Author: Mangesh Sonawane 
+%Program Details: An implementation of Image source method for generation
 % shoebox-type-room impulse response for the given room dimension. Each 
 % wall has different absorption coefficient.The output generated has
 % the dimension mentioned and changes as the parameter changes for room
