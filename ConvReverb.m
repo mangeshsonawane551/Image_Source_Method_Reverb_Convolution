@@ -1,5 +1,6 @@
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~%
-% Program Details: An implementation of convolution operation that 
+%Author: Mangesh Sonawane 
+%Program Details: An implementation of convolution operation that 
 %convolves an input .wav file  with the impulse response simulated
 %using the ?ImageSource...m? script, in order to make the sound in the 
 %input .wav file appear to have been created and recorded in a virtualroom.
